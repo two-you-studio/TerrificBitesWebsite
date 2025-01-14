@@ -14,5 +14,6 @@ export default defineConfig({
       ]
     })
   ],
-  assetsInclude: ['**/*.png']
+  assetsInclude: ['**/*.png'],
+  base: "/Terrific_Bites"
 });
